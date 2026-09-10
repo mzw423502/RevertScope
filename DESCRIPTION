@@ -7,7 +7,7 @@ Description: A local analysis workflow for independent-replicate bulk RNA-seq
     counts. It fits a unified limma-voom model and exports covariance-aware
     perturbation, intervention and residual effects, evidence-aware response
     classes, response maps, tables, reports and reopenable project bundles.
-License: MIT + file LICENSE
+License: MIT
 URL: https://github.com/mzw423502/RevertScope
 BugReports: https://github.com/mzw423502/RevertScope/issues
 Encoding: UTF-8
