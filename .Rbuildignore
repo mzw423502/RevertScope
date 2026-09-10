@@ -1,0 +1,15 @@
+
+^\.git$
+^\.github$
+^\.gitignore$
+^CITATION\.cff$
+^\.library$
+^\.download-cache$
+^data$
+^results$
+^logs$
+^tests$
+^user_projects$
+^public_case_materials$
+^启动RevertScope\.cmd$
+^release_manifest\.json$

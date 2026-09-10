@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use RevertScope, please cite the software repository and the accompanying manuscript."
+title: "RevertScope"
+type: software
+authors:
+  - name: "RevertScope contributors"
+version: 1.0.0
+date-released: 2026-09-10
+repository-code: "https://github.com/mzw423502/RevertScope"
+license: MIT

@@ -1,0 +1,13 @@
+sample_id	group	role	biological_replicate	data_scale	independent_biological_replicate
+GSM6505545	C	C	1	raw_counts	true
+GSM6505546	C	C	2	raw_counts	true
+GSM6505547	C	C	3	raw_counts	true
+GSM6505548	C	C	4	raw_counts	true
+GSM6505549	D	D	1	raw_counts	true
+GSM6505550	D	D	2	raw_counts	true
+GSM6505551	D	D	3	raw_counts	true
+GSM6505552	D	D	4	raw_counts	true
+GSM6505553	T	T	1	raw_counts	true
+GSM6505554	T	T	2	raw_counts	true
+GSM6505555	T	T	3	raw_counts	true
+GSM6505556	T	T	4	raw_counts	true

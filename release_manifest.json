@@ -1,0 +1,232 @@
+{
+  "repository": "https://github.com/mzw423502/RevertScope",
+  "software_version": "1.0.0",
+  "method_version": "0.2.0",
+  "schema_version": "2.0.0",
+  "source_bundle": "deliverables/CBC_submission_package/01_Submission_files/Reviewer_software_bundle.zip",
+  "source_bundle_sha256": "9813bd0a309efe1db10a6d4b41e59b177c1358a454e9a90b65f92a95147ce88b",
+  "license": "MIT",
+  "license_status": "SELECTED_AND_INCLUDED",
+  "files": {
+    ".gitignore": {
+      "bytes": 196,
+      "sha256": "6a9563479fffb0b2594bb5662be96cca9901b7b1a3b0738e3b8e8177e7f927ae"
+    },
+    ".Rbuildignore": {
+      "bytes": 218,
+      "sha256": "fdad99feb78add698ebb0cc202abffd8ebed473686a1bef7d6d2390f61a3b9ae"
+    },
+    "app/app.R": {
+      "bytes": 42156,
+      "sha256": "d9879f5dd71df0ae1c86bdddfaea4be07a3319bb2aef7d4e1c61b175ee40592b"
+    },
+    "app/www/gene-selection.js": {
+      "bytes": 2798,
+      "sha256": "9f30e74e447d712b8986301eb434cef8f0ace7865c126563c606687702729b8f"
+    },
+    "app/www/style.css": {
+      "bytes": 3476,
+      "sha256": "b6e9282be2a5cf6ae0b7ab0a16a8bed7e4f1bda0db39acaa371660db926330d7"
+    },
+    "CITATION.cff": {
+      "bytes": 329,
+      "sha256": "d60fe2edd24c68b457229181103137012f03cf4a21f7ef72ddbcd171ab7b1c3d"
+    },
+    "config/analysis.yml": {
+      "bytes": 349,
+      "sha256": "4ddca1ff0bf231a9c97cf432c8e2b5f1a433c5ffd20f7ec014eee9472232ae5b"
+    },
+    "config/dependency_sources.tsv": {
+      "bytes": 13742,
+      "sha256": "81e3fccef3993e5c2263a367fb8882f17b21d9cb1b65f725b552d0beeadd6f62"
+    },
+    "config/public_GSE208041.yml": {
+      "bytes": 367,
+      "sha256": "25a8889f7fbc80ffbe93ac4ae3af1213e29e3fa0a3065772d59249fd3004c06c"
+    },
+    "config/third_party_components.tsv": {
+      "bytes": 34706,
+      "sha256": "6a720e4c76a3289d9a59bc115a00e0bfd951ba84238cc82ce7a97b9879ccb5b6"
+    },
+    "DESCRIPTION": {
+      "bytes": 932,
+      "sha256": "59116710271b020c1865f64a8eeff33ec96d320ca4a0f86874d1817cb54ca903"
+    },
+    "docs/METHODS.md": {
+      "bytes": 5896,
+      "sha256": "0ee035bbaf3688a4fc8547d98ef505eb18a51844b6512d1566ec8332a62e3522"
+    },
+    "docs/QUICK_START.md": {
+      "bytes": 2502,
+      "sha256": "e6fe2dc22a7032715e4123ae7f500f5511a9d9561331779a96a0f0281fe04f4f"
+    },
+    "docs/RESULT_SCHEMA.md": {
+      "bytes": 4465,
+      "sha256": "747e3da68530be41258bf0f0e113156d838834fa61b573d101100b43573fb9eb"
+    },
+    "docs/user_guide_zh.md": {
+      "bytes": 6190,
+      "sha256": "9598d61e7a63e7fb98800eb21a739bc60958009b4c7a74312b17baacc560a813"
+    },
+    "examples/counts.tsv": {
+      "bytes": 170848,
+      "sha256": "f3f6c39933dbe0ccfff927faaa678633d75901899baa14836a75ec1307d726bc"
+    },
+    "examples/multi/config.yml": {
+      "bytes": 363,
+      "sha256": "5124aa5e462a30c742119ebc757e83e032d8198fd908262917332743ad1c0a34"
+    },
+    "examples/multi/counts.tsv": {
+      "bytes": 2027632,
+      "sha256": "5a2b2f76deb619347f828a8a295ae0e89b9d827ef534e6d31e2527a7ced406f5"
+    },
+    "examples/multi/samples.tsv": {
+      "bytes": 676,
+      "sha256": "4e37116717336d413550b4504ac19789ba2afa7fab0897196dc8c19d2e6129a7"
+    },
+    "examples/samples.tsv": {
+      "bytes": 704,
+      "sha256": "299b1ae9c9a8d1853143cdacc7922a273b22fb829af4c6f6b858e908c8afc2e9"
+    },
+    "LICENSE": {
+      "bytes": 56,
+      "sha256": "d87b7e935e84eaea5239eade4da0812a64f408655157a8c095e15c77b32b84e6"
+    },
+    "LICENSE.md": {
+      "bytes": 1102,
+      "sha256": "3d36da8b181e141435ddb64cfc7748d71ee7e6a23bca7b0aefd3cd3437e3ec2e"
+    },
+    "man/revertscope.Rd": {
+      "bytes": 2100,
+      "sha256": "0a3e43c8073284ab733e1b3ae1636915945fb4ee3aa59083e008f266cc1e21ec"
+    },
+    "NAMESPACE": {
+      "bytes": 331,
+      "sha256": "ea591c4507081c47b7cd4b247c8612f0361f9a81cf397348f99e4f381ab397ac"
+    },
+    "NEWS.md": {
+      "bytes": 588,
+      "sha256": "6fde57786ced0769fd6552a2818c08b5cefe6500cc5e7bb0e201bee3525fb797"
+    },
+    "NOTICE.md": {
+      "bytes": 683,
+      "sha256": "19e778249a37fd8991a0ea8ee0911ad6bb91712a45c3fe96cfecbb38aef5d380"
+    },
+    "public_case_materials/GSE162699/round4_GSE162699.yml": {
+      "bytes": 492,
+      "sha256": "18abc0969cdb2d4a6bb912653fb176a3a02244d240aa8dbf76a361c2c0c666c9"
+    },
+    "public_case_materials/GSE162699/samples.tsv": {
+      "bytes": 277,
+      "sha256": "4c9edf3e925da2178a699927fc31cb85992284c7e9129f6e1222df88e503c3ca"
+    },
+    "public_case_materials/GSE208041/public_GSE208041.yml": {
+      "bytes": 367,
+      "sha256": "25a8889f7fbc80ffbe93ac4ae3af1213e29e3fa0a3065772d59249fd3004c06c"
+    },
+    "public_case_materials/GSE208041/sample_mapping.tsv": {
+      "bytes": 1683,
+      "sha256": "2163c4e64bd76d1b85142a910bef1fb0d22f65e28d4b89585a34c42786a95de9"
+    },
+    "public_case_materials/GSE208041/samples.tsv": {
+      "bytes": 482,
+      "sha256": "e36443abb40e426d9a2c8c7273cf7c5f11535d4eedb5e821669fa0c5ab0107fd"
+    },
+    "R/000_release.R": {
+      "bytes": 804,
+      "sha256": "1a2921f0693ddd19a376c2bd06a14c9f03b5bf23023489344b082422b276a206"
+    },
+    "R/core.R": {
+      "bytes": 22915,
+      "sha256": "425f55f9ba16173895d2ba7046b441b8c0c1a8420b3ce475e25376d00b955002"
+    },
+    "R/export.R": {
+      "bytes": 9559,
+      "sha256": "811a434f839c5e9d142782128bffdd475a524c97b24038f9e56b5cf034f09232"
+    },
+    "R/globals.R": {
+      "bytes": 193,
+      "sha256": "01981b9ec0f9e4e01fd7fcc1df4ab2f9778b2fbcba4e91081d9ed4d49d84742a"
+    },
+    "R/product_export.R": {
+      "bytes": 27600,
+      "sha256": "d53093b5870ad4c16b8b052d53987e9c06b2b4122b3278a2027c11f7d1c3e8d1"
+    },
+    "R/product_ui.R": {
+      "bytes": 2156,
+      "sha256": "e1b5c50af446492e899e80c39d0df422bc6de8a73ac9f7d9e320846d20c03b18"
+    },
+    "R/projects.R": {
+      "bytes": 20736,
+      "sha256": "147f11c64d3f20b7455149cf69a452e8eb9ce59dc53dbb35e1d71b4090a5ac5e"
+    },
+    "R/zzz_release.R": {
+      "bytes": 214,
+      "sha256": "74be677e03cd64ced8a90035caaa56b7a254f31f721abaea2457eb5b7de2312a"
+    },
+    "README.md": {
+      "bytes": 4257,
+      "sha256": "a22c8e403f04a40b13b97b5bfc72a17ce2b27eb1057768a7e5065ac30f198a02"
+    },
+    "renv.lock": {
+      "bytes": 227273,
+      "sha256": "4a2fe34a50962b99b3a5a869218f3498b014836a44fa721164510e60d182099d"
+    },
+    "scripts/analysis_worker.R": {
+      "bytes": 2646,
+      "sha256": "797d5643ce7dc1faca5dd8eaa9ec150bc7212de055ede323ce36661d039790f8"
+    },
+    "scripts/fetch_release_public.py": {
+      "bytes": 6532,
+      "sha256": "bd42ffd21c4f2cbeb7cb62e39090c229eb595369107e6ef34a498ed62898740d"
+    },
+    "scripts/install_release_dependencies.R": {
+      "bytes": 2502,
+      "sha256": "e9917dda348690de2df8d1d19b1d71beada6d9d05683ef7835412eaf86d64653"
+    },
+    "scripts/launch.ps1": {
+      "bytes": 1713,
+      "sha256": "fd9fa649483021f77a71e19448360fa9b5582bbb70698d4a7008f47b26b5f889"
+    },
+    "scripts/prepare_release_examples.R": {
+      "bytes": 1398,
+      "sha256": "65b466939b31bc8442ab5df4d6740487c42bf5f5a9c4d90c90ad84760bb070c3"
+    },
+    "scripts/r.ps1": {
+      "bytes": 918,
+      "sha256": "2156e49749cf1333a26732b9b422d508514deb804bb686f8cf130dad9cdcc5d9"
+    },
+    "scripts/reference_methods.R": {
+      "bytes": 2476,
+      "sha256": "045c374bbdf9257fce1bd455036d18686ffc382c7db96a53a52231523e871daa"
+    },
+    "scripts/restore_release.ps1": {
+      "bytes": 2113,
+      "sha256": "5d0fea1d0e3d3aae0b05e9f54a1980cc9ea28d8ac675e0e2401fef04f1fabbf1"
+    },
+    "scripts/run_analysis.R": {
+      "bytes": 1956,
+      "sha256": "e1be9063b92188d99d6c96f084cbb41c7feaf87e73e980080740a22a004352a5"
+    },
+    "scripts/run_app.R": {
+      "bytes": 711,
+      "sha256": "8c0f0691caec3dae7bd34e847e8761fa8520113f3250ef51d2ca4895c5b646df"
+    },
+    "scripts/test_all.R": {
+      "bytes": 3266,
+      "sha256": "decb7b29402e21435d1f5ba9b5160c8ba595f4f37fb837d3f70a90f872889145"
+    },
+    "tests/fixtures/build_xlsx.py": {
+      "bytes": 652,
+      "sha256": "b6d7e085eb3cfd3398ccf6703de4e03d36594af4fc1e37ea1dfaaada022f3eeb"
+    },
+    "tests/test_core.R": {
+      "bytes": 11838,
+      "sha256": "dbfa1560187d183ae6e30200c94feb764077f53b08c49e18e5aa9351cd6baf3b"
+    },
+    "启动RevertScope.cmd": {
+      "bytes": 181,
+      "sha256": "940a3ad9df181e22e78414ea802d886a2c91292cb7c992bee245366626e613e3"
+    }
+  }
+}

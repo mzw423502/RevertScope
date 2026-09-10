@@ -1,0 +1,13 @@
+original_column	sample_id	GEO_title	treatment	group	source_url
+RNAseq/Veh_rep1	GSM6505545	THP-1 cells, RNAseq/Vehicle, 3h, rep1	Vehicle	C	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505545
+RNAseq/Veh_rep2	GSM6505546	THP-1 cells, RNAseq/Vehicle, 3h, rep2	Vehicle	C	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505546
+RNAseq/Veh_rep3	GSM6505547	THP-1 cells, RNAseq/Vehicle, 3h, rep3	Vehicle	C	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505547
+RNAseq/Veh_rep4	GSM6505548	THP-1 cells, RNAseq/Vehicle, 3h, rep4	Vehicle	C	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505548
+RNAseq/LPS_rep1	GSM6505549	THP-1 cells, RNAseq/LPS, 3h, rep1	LPS	D	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505549
+RNAseq/LPS_rep2	GSM6505550	THP-1 cells, RNAseq/LPS, 3h, rep2	LPS	D	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505550
+RNAseq/LPS_rep3	GSM6505551	THP-1 cells, RNAseq/LPS, 3h, rep3	LPS	D	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505551
+RNAseq/LPS_rep4	GSM6505552	THP-1 cells, RNAseq/LPS, 3h, rep4	LPS	D	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505552
+RNAseq/LPSDex_rep1	GSM6505553	THP-1 cells, RNAseq/LPSDex, 3h, rep1	LPS+Dex	T	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505553
+RNAseq/LPSDex_rep2	GSM6505554	THP-1 cells, RNAseq/LPSDex, 3h, rep2	LPS+Dex	T	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505554
+RNAseq/LPSDex_rep3	GSM6505555	THP-1 cells, RNAseq/LPSDex, 3h, rep3	LPS+Dex	T	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505555
+RNAseq/LPSDex_rep4	GSM6505556	THP-1 cells, RNAseq/LPSDex, 3h, rep4	LPS+Dex	T	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6505556

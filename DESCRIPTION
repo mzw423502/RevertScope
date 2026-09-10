@@ -1,0 +1,17 @@
+Package: revertscope
+Type: Package
+Title: Transcriptomic Perturbation and Intervention Response Classification
+Version: 1.0.0
+Authors@R: person(given = "RevertScope", family = "contributors", role = c("aut", "cre"), email = "mzw423502@users.noreply.github.com")
+Description: A local analysis workflow for independent-replicate bulk RNA-seq
+    counts. It fits a unified limma-voom model and exports covariance-aware
+    perturbation, intervention and residual effects, evidence-aware response
+    classes, response maps, tables, reports and reopenable project bundles.
+License: MIT + file LICENSE
+URL: https://github.com/mzw423502/RevertScope
+BugReports: https://github.com/mzw423502/RevertScope/issues
+Encoding: UTF-8
+Depends: R (>= 4.6.0)
+Imports: limma, edgeR, readxl, yaml, jsonlite, digest
+Suggests: renv, shiny, DT, plotly, ggplot2, svglite, systemfonts, ragg,
+    processx, ps, fs, zip, htmltools, base64enc

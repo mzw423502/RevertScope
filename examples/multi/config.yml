@@ -1,0 +1,15 @@
+delta_D: 0.75
+epsilon_R: 0.5
+delta_M: 0.5
+epsilon_0: 0.25
+alpha: 0.05
+min_replicates: 3
+min_count: 10
+min_total_count: 15
+max_cells: 5000000
+data_scale: raw_counts
+source_confirmed: yes
+source_description: Prespecified NB or Poisson-lognormal simulator with known unconditional
+  mean contrasts
+independent_replicates: yes
+design_type: independent

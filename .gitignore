@@ -1,0 +1,17 @@
+
+.Rhistory
+.RData
+.Rproj.user/
+.Rcheck/
+.library/
+.download-cache/
+.no_site_library/
+data/
+results/
+logs/
+user_projects/
+config/runtime_path.txt
+*.tar.gz
+*.zip
+__pycache__/
+*.pyc

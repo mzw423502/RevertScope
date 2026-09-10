@@ -1,0 +1,10 @@
+sample_id	group	role
+NT_0_1	Vehicle_siNT	C
+NT_0_2	Vehicle_siNT	C
+NT_0_3	Vehicle_siNT	C
+NT_50_1	Puromycin50_siNT	D
+NT_50_2	Puromycin50_siNT	D
+NT_50_3	Puromycin50_siNT	D
+siLL_50_1	Puromycin50_siUPF1LL	T
+siLL_50_2	Puromycin50_siUPF1LL	T
+siLL_50_3	Puromycin50_siUPF1LL	T
