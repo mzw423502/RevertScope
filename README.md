@@ -74,4 +74,4 @@ The accompanying manuscript is titled *RevertScope: an interactive and reproduci
 
 ## License
 
-RevertScope source code is released under the [MIT License](LICENSE.md). Third-party R packages and data sources retain their own licenses and are not relicensed by this repository.
+RevertScope source code is released under the [MIT License](LICENSE). Third-party R packages and data sources retain their own licenses and are not relicensed by this repository.

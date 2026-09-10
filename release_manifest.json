@@ -21,10 +21,10 @@
       "sha256": "d60fe2edd24c68b457229181103137012f03cf4a21f7ef72ddbcd171ab7b1c3d"
     },
     "DESCRIPTION": {
-      "bytes": 917,
-      "sha256": "0ec680506773e14093cae67f0df21219e4ab0889686e4eeab44cfa2e19bc494e"
+      "bytes": 975,
+      "sha256": "d8996aba84619652703fb8d24914c7a4d20c42833ab15e6f0798bf50a16d9300"
     },
-    "LICENSE.md": {
+    "LICENSE": {
       "bytes": 1102,
       "sha256": "3d36da8b181e141435ddb64cfc7748d71ee7e6a23bca7b0aefd3cd3437e3ec2e"
     },
@@ -73,8 +73,8 @@
       "sha256": "74be677e03cd64ced8a90035caaa56b7a254f31f721abaea2457eb5b7de2312a"
     },
     "README.md": {
-      "bytes": 4257,
-      "sha256": "a22c8e403f04a40b13b97b5bfc72a17ce2b27eb1057768a7e5065ac30f198a02"
+      "bytes": 4254,
+      "sha256": "712d3aaa3aee4b28584b3988236e87d49bc807e20a0165d5dd8542733c7a9ab3"
     },
     "app/app.R": {
       "bytes": 42156,
